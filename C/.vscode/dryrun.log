@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/user/Desktop/CS50/C'
+make: Leaving directory `/Users/user/Desktop/CS50/C'
+ 
+Makefile:8: *** missing separator.  Stop.
+
