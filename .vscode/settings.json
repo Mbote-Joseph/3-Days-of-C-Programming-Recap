@@ -3,5 +3,6 @@
     "*.ejs": "html",
     "string": "c",
     "iosfwd": "c"
-  }
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
 }
