@@ -40,7 +40,7 @@ void average(int *numbers){
     
 }
 
-// Find the grade for each subject
+// Find the grade for each subject in the array
 void subject_grade(int *numbers){
     printf("==========================================\n");
     printf("\t\t Final Report\n");
@@ -57,7 +57,7 @@ void subject_grade(int *numbers){
    
 }
 
-// Finds the final grade for the total 
+// Finds the final grade for the total subject score in the array
 void grade(int sum){
     if(sum/5 >= 90){
         printf("\tA\n");
@@ -76,7 +76,7 @@ void grade(int sum){
     }
 }
 
-// Finds the subject grade
+// Finds the subject grade in the array
 void final_grade(int num){
     if(num>=90){
         printf("\tA\n");
